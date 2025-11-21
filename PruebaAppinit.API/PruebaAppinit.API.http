@@ -1,0 +1,6 @@
+@PruebaAppinit.API_HostAddress = http://localhost:5234
+
+GET {{PruebaAppinit.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

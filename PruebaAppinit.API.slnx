@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PruebaAppinit.API/PruebaAppinit.API.csproj" />
+  <Project Path="PruebaAppinit.Application/PruebaAppinit.Application.csproj" />
+  <Project Path="PruebaAppinit.Domain/PruebaAppinit.Domain.csproj" />
+  <Project Path="PruebaAppinit.Infrastructure/PruebaAppinit.Infrastructure.csproj" />
+</Solution>
